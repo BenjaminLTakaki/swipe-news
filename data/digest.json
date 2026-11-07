@@ -1,0 +1,2485 @@
+[
+ {
+  "day": "2026-11-07",
+  "headline": "Paraguay swears in new president as Peña is put under house arrest",
+  "topic": "politics",
+  "sides": {
+   "left": 2,
+   "center": 1,
+   "right": 2,
+   "state": 5,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "Associated Press",
+    "title": "Paraguay Vice President Pedro Alliana is sworn in as president"
+   },
+   "center": {
+    "channel": "Reuters",
+    "title": "Paraguay swears in new president as Peña is put under house arrest"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "Paraguay Bank News | Pedro Alliana Sworn In As President After Santiago Peña Impeachment"
+   }
+  },
+  "outlets": 10,
+  "score": 20.9727,
+  "clips": [
+   "4XfC_LIaHfs",
+   "CpmRFNQLs54",
+   "Dfa_mxES8ak",
+   "NVZeDdeq4eg",
+   "OSBixPL37bo",
+   "U1eZWqCnSJk",
+   "dIshNpYaMqg",
+   "e1OpURJz0_c",
+   "oOZWW6Snt8M",
+   "p4P02v7gnQ0",
+   "qJj5nhBkc-c"
+  ]
+ },
+ {
+  "day": "2026-11-07",
+  "headline": "Russian Overnight Attack on Ukraine's Capital Kyiv Injures Five",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 3,
+   "right": 2,
+   "state": 2,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "BBC News",
+    "title": "Russian strikes in Ukraine leave nine injured and damage power network"
+   },
+   "right": {
+    "channel": "TRT World",
+    "title": "Blackouts in several areas including Kiev after Russian strikes"
+   }
+  },
+  "outlets": 7,
+  "score": 16.8343,
+  "clips": [
+   "DGaNe5SmkWU",
+   "H4Mfzdk00Hk",
+   "Q1IRBbQ3lG4",
+   "VAb0FV3zeKw",
+   "bz6SGs31kFM",
+   "oZi_MXNqT-8",
+   "rJUsZC2fq_I",
+   "zwiT43_CKnM"
+  ]
+ },
+ {
+  "day": "2026-11-07",
+  "headline": "Sao Paulo Building Collapse: Four Injured After Four-Storey Building Collapses in Sao Paulo",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 2,
+   "right": 2,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "Reuters",
+    "title": "Four injured after four-story building collapses in Brazil"
+   },
+   "right": {
+    "channel": "India Today",
+    "title": "Ghaziabad Building Slab Collapse: One Dead, Four Injured In Construction Accident"
+   }
+  },
+  "outlets": 5,
+  "score": 12.9739,
+  "clips": [
+   "MW6-01KFKZk",
+   "ZbpLwY3yRm0",
+   "hsRg5CA9cd8",
+   "lHP0nkAnKeU",
+   "uN6QfVITdcQ"
+  ]
+ },
+ {
+  "day": "2026-11-07",
+  "headline": "US vs Iran: Two Missiles Reportedly Hit Qeshm Island, Near Strait of Hormuz",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 2,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "US vs Iran: Two Missiles Reportedly Hit Qeshm Island, Near Strait of Hormuz"
+   },
+   "right": {
+    "channel": "TRT World",
+    "title": "Tehran says it shot down US drone over Qeshm Island"
+   }
+  },
+  "outlets": 4,
+  "score": 11.9436,
+  "clips": [
+   "0vCZ6HDSvuc",
+   "EXHQA4cBs6Q",
+   "szeYvzkXWmA",
+   "tRtNS9SiR54"
+  ]
+ },
+ {
+  "day": "2026-11-07",
+  "headline": "Five killed and dozen more injured in Krakow shooting, police say",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 1,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "BBC News",
+    "title": "Five killed and dozen more injured in Krakow shooting, police say"
+   },
+   "right": {
+    "channel": "GB News",
+    "title": "BREAKING: Five people killed in shooting in Krakow's Main Market Square"
+   }
+  },
+  "outlets": 3,
+  "score": 8.87,
+  "clips": [
+   "-1h0A8X10Ic",
+   "UQBjIfgeZWc",
+   "obBpxUqObTg"
+  ]
+ },
+ {
+  "day": "2026-11-07",
+  "headline": "Ayodhya's Ram Janmabhoomi Temple Decked Up Ahead of Diwali",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "Ayodhya's Ram Janmabhoomi Temple Decked Up Ahead of Diwali"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "Ayodhya Deepotsav | 30 Lakh Diyas To Light Up 56 Ghats, 2,100 Drones Recreate Ramayana"
+   }
+  },
+  "outlets": 3,
+  "score": 2.7869,
+  "clips": [
+   "DWRJiVCF6h0",
+   "DabBrm7GIlU",
+   "Fi2L4wh_tXo",
+   "M3Uy5LKhrcI",
+   "POK3ssPP4Ns",
+   "hMkkmsrbw2Q",
+   "lRYQ9XsC20A"
+  ]
+ },
+ {
+  "day": "2026-11-07",
+  "headline": "PM Modi Extends Greetings to the Nation on the Occasion of Diwali",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "PM Modi Extends Greetings to the Nation on the Occasion of Diwali"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "PM Modi To Celebrate Diwali With Military Personnel, Greets Nation"
+   }
+  },
+  "outlets": 3,
+  "score": 2.7854,
+  "clips": [
+   "9Kbu-gjPTh4",
+   "AA0RTCrK8dU",
+   "GVvmwPWFoPU",
+   "LbUC3janIYY"
+  ]
+ },
+ {
+  "day": "2026-11-07",
+  "headline": "US to Target Iran's Ground Transit Routes | PM Modi Extends Diwali Greetings",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "US to Target Iran's Ground Transit Routes | PM Modi Extends Diwali Greetings"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "Trump Celebrates Diwali With Indian-American CEOs, Entrepreneurs"
+   }
+  },
+  "outlets": 3,
+  "score": 2.785,
+  "clips": [
+   "-xFx0O3GgiY",
+   "Za49hFrBcr0",
+   "uDFxBO4YgJs"
+  ]
+ },
+ {
+  "day": "2026-11-07",
+  "headline": "Ghaziabad Police Outpost Blast: Unverified Online Post Claims Responsibility, Threatens Outpost",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "Ghaziabad Police Outpost Blast: Unverified Online Post Claims Responsibility, Threatens Outpost"
+   },
+   "right": {
+    "channel": "India Today",
+    "title": "Ghaziabad: Morning Visuals From Vasundhara Police Outpost After Explosion"
+   }
+  },
+  "outlets": 3,
+  "score": 2.7776,
+  "clips": [
+   "b7d7jiarS3A",
+   "bAxrRfmjpn4",
+   "hkaYiUcDVg4",
+   "ztt_ElAQ7YQ"
+  ]
+ },
+ {
+  "day": "2026-11-07",
+  "headline": "Indian Air Force IL-76MD Sets World Record For Highest-Altitude Landing By The Aircraft",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "Indian Air Force IL-76MD Sets World Record For Highest-Altitude Landing By The Aircraft"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "World Record: IAF's IL-76MD Makes Historic Landing At 13,629 Feet In Ladakh"
+   }
+  },
+  "outlets": 3,
+  "score": 2.7744,
+  "clips": [
+   "4dB6w5KoihA",
+   "7-r6W2bXE2k",
+   "V0aEJz2rgbc",
+   "YAwlzGfNe9o",
+   "qif2FAk4ltc"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "Trump explains why he REPLACED Susie Wiles",
+  "topic": "politics",
+  "sides": {
+   "left": 1,
+   "center": 0,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "CBC News",
+    "title": "Trump's chief of staff Susie Wiles out after midterm defeat"
+   },
+   "right": {
+    "channel": "Sky News Australia",
+    "title": "Trump addresses media after replacing Susie Wiles with Stephen Miller"
+   }
+  },
+  "outlets": 13,
+  "score": 23.8891,
+  "clips": [
+   "1XVKI3gV83E",
+   "9dOgHG51vDA",
+   "BxSrNuXMPbs",
+   "DYALUSfCa3M",
+   "Fi-gMtxElQg",
+   "G29XKN9VhjY",
+   "Jgk3LTd4HL0",
+   "K_yVEhrcgCA",
+   "Ktvwvy5qeMQ",
+   "LcykbIbq_Lw",
+   "LovHbwQQu8I",
+   "M-kFxiPjPH0",
+   "NAiZMcnAmHY",
+   "UFuo7IuTLjQ",
+   "W7t5aEstON0",
+   "WzPLlB94H2E",
+   "_6R0e6uv44w",
+   "c9kdUngb9Zc",
+   "hmANZbDwqiI",
+   "iGlMzyZx2jI",
+   "jPL2ZPvnt4A",
+   "jksQBUBgTDQ",
+   "m-oK6AvmmMQ",
+   "n-Re9WPjXsw",
+   "pcCrPWsQMu8",
+   "rMio6i5WzS4",
+   "s27k4gQMYyE",
+   "t9ehR7Akdes",
+   "vQ_MdmyVf5A",
+   "wNR8IiTfdEQ",
+   "x8TBAEP1w8Q",
+   "zvHzv6-Wt0E"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "Peru installs giant Pope Leo statue ahead of papal visit",
+  "topic": "other",
+  "sides": {
+   "left": 1,
+   "center": 1,
+   "right": 0,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "DW News",
+    "title": "Peru erects 14-meter statue of Pope Leo XIV ahead of visit"
+   },
+   "center": {
+    "channel": "Reuters",
+    "title": "Peru installs giant Pope Leo statue ahead of papal visit"
+   }
+  },
+  "outlets": 9,
+  "score": 19.9654,
+  "clips": [
+   "-FWaNFjpY2c",
+   "25wOgGaOEqc",
+   "5gSLO08f2Ww",
+   "6cG0c28lBRw",
+   "7Ji4OhslHx8",
+   "9QeDcC6mxrI",
+   "GRYedyw5Z6E",
+   "H9m60vywUeU",
+   "JC4p6gKDZ98",
+   "Jpv2XBsXhL8",
+   "OCO2oWz82IA",
+   "OzWCdBIEZ50",
+   "PH4KFjO-7yc",
+   "QB2BiFBBoMY",
+   "QSHvzZsXtrA",
+   "QcScrKIMrcU",
+   "SO4JwfHGq-I",
+   "SjNolHKxpVA",
+   "YcTiANwVn9E",
+   "YgsnLCNfG_0",
+   "b5Y2CkzdBVE",
+   "bT9cM9vbXxo",
+   "cgTkOxb5pzg",
+   "dRKdtR1Lv44",
+   "dbKUNvmAqJA",
+   "ksoY2DOHBhg",
+   "ldEgw122dFU",
+   "tc6y7F2w4O4",
+   "vNeByHtd9NE"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "Displaced Gazan Builds Wind Tubines From Scrap For Electricity",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 0,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "Displaced Gazan Builds Wind Tubines From Scrap For Electricity"
+   }
+  },
+  "outlets": 7,
+  "score": 17.9043,
+  "clips": [
+   "0FwpbmvXt6g",
+   "9StGzrdqQDE",
+   "GwZdbisDor8",
+   "H2BMxQlKKIw",
+   "Imo_IahEWq4",
+   "NfDLXBRDrxU",
+   "T4lpePqFv7Y",
+   "XeFziZztZBI",
+   "iQy5VB7dIlE",
+   "mR1GRo7Uivk",
+   "socIkMv3D5w",
+   "xjHjBlm1VLg"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "Protesters breach Microsoft data center construction site",
+  "topic": "politics",
+  "sides": {
+   "left": 2,
+   "center": 2,
+   "right": 1,
+   "state": 2,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "Associated Press",
+    "title": "Protesters break into a Microsoft data center construction site in Amsterdam"
+   },
+   "center": {
+    "channel": "WION",
+    "title": "Hundreds Protest Microsoft's Data Centre Project in Amsterdam"
+   },
+   "right": {
+    "channel": "New York Post",
+    "title": "Anti-AI Dutch Protestors STORM Microsoft Data Center Construction Site"
+   }
+  },
+  "outlets": 7,
+  "score": 17.8929,
+  "clips": [
+   "0flro1b4Z3s",
+   "1faf0tTVkos",
+   "53SLfukNhkw",
+   "BYi8CB_Um88",
+   "Sxm3rSt2X60",
+   "VIAEQp9bTcs",
+   "XqObAocNolM",
+   "bn_2nIPwrlI",
+   "eYxeUcuIw8k",
+   "s4H6Zx2pdCg"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "Trump Displays Veto Cap as Democrats Take Control of Congress",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 4,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "Trump Displays Veto Cap as Democrats Take Control of Congress"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "Video Shows Trump's 'VETO' Hat As He Speaks To Reporters After Republicans' Midterm Defeat"
+   }
+  },
+  "outlets": 6,
+  "score": 13.862,
+  "clips": [
+   "-dnsTOsZoI0",
+   "RsKAbOT6L6k",
+   "V9y0vGQmERU",
+   "WBUtCXbfIE4",
+   "bFNG4biu9m0",
+   "fkQ3mV2vBAg",
+   "iSql5ykdROA"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "Trump Transforms Oval Office Interiors; Move Seeks to Prevent Major Changes to Historic Rooms",
+  "topic": "politics",
+  "sides": {
+   "left": 2,
+   "center": 1,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "Guardian News",
+    "title": "Trump signs order to make gold-decorated Oval Office a national monument"
+   },
+   "center": {
+    "channel": "WION",
+    "title": "Trump Transforms Oval Office Interiors; Move Seeks to Prevent Major Changes to Historic Rooms"
+   },
+   "right": {
+    "channel": "India Today",
+    "title": "Trump Signs Proclamation Designating Oval Office As A National Monument"
+   }
+  },
+  "outlets": 5,
+  "score": 13.9346,
+  "clips": [
+   "62zD9p8U-zQ",
+   "Ekytkj-2mw8",
+   "YMgfU5OGFos",
+   "jXbGUYtlvJI",
+   "xam5CCIxnA8"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "California governor to grant clemency to all 548 death row inmates in state",
+  "topic": "politics",
+  "sides": {
+   "left": 1,
+   "center": 2,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "CNN",
+    "title": "Newsom commutes sentences of all California death row prisoners"
+   },
+   "center": {
+    "channel": "WION",
+    "title": "California: Governor Newsom Ends Execution Threat For 548 Prisoners"
+   },
+   "right": {
+    "channel": "Fox News",
+    "title": "Gavin Newsom comutes 548 DEATH SENTENCES"
+   }
+  },
+  "outlets": 5,
+  "score": 13.8602,
+  "clips": [
+   "9ZK69C7tbXc",
+   "EZ5YMoT4TJg",
+   "Rh9O5eIx6RU",
+   "XNkW_ruEd-M",
+   "sUHXjJv6PTk"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "US Iran War: Trump Says US Is Doing Well With Iran, Confirms Talks Are Underway",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 2,
+   "state": 2,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "US-Iran War: Trump Claims US Has Beaten Iran, Says Talks Continue"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "US Iran War Latest | Trump Says US 'Doing Very Well & Talking To Iran' As Ceasefire Talks Continue"
+   }
+  },
+  "outlets": 5,
+  "score": 10.9107,
+  "clips": [
+   "7VbtKNYqB8o",
+   "Hpf-8Sr5Dzk",
+   "m-7i1aSNwQI",
+   "mnVx5XfQMw0",
+   "wYze0EWNCg8",
+   "yCqRFRfund0"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "Tennessee City Underwater After Overnight Downpour",
+  "topic": "other",
+  "sides": {
+   "left": 2,
+   "center": 1,
+   "right": 1,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "Associated Press",
+    "title": "Heavy rains flood towns, dozens rescued on Georgia-Tennessee border"
+   },
+   "center": {
+    "channel": "WION",
+    "title": "Tennessee City Underwater After Overnight Downpour"
+   },
+   "right": {
+    "channel": "Fox News",
+    "title": "CATASTROPHIC floods DEVASTATE Georgia, Tennessee"
+   }
+  },
+  "outlets": 5,
+  "score": 7.6237,
+  "clips": [
+   "8UCCIyDeqU8",
+   "STSjfdQJSN8",
+   "ZsiFe2lGRLE",
+   "iohQSZiMWTs",
+   "qWW_4AyVg28"
+  ]
+ },
+ {
+  "day": "2026-11-06",
+  "headline": "‘Maybe I Will Have to Destroy Rest of Iran’: Trump",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 3,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "US-Iran War: Trump Says Iran Cannot Advance Nuclear Programme Without US Approval"
+   },
+   "right": {
+    "channel": "India Today",
+    "title": "Trump Says Tehran Is ‘Not Doing Anything’ On US Nuclear Proposals"
+   }
+  },
+  "outlets": 5,
+  "score": 4.5989,
+  "clips": [
+   "0ZEoPFY2dJc",
+   "JW4oMQdbDxg",
+   "NXsWIndT8o8",
+   "WzstDyTiouI",
+   "poR20QA8Wmc",
+   "reBCFlQPZ2o"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "Cristiano Ronaldo retires from international football",
+  "topic": "sports",
+  "sides": {
+   "left": 2,
+   "center": 3,
+   "right": 2,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "right": {
+    "channel": "India Today",
+    "title": "Cristiano Ronaldo's Legendary Career: 5 Ballon d'Ors & Euro 2016 Glory"
+   },
+   "center": {
+    "channel": "FRANCE 24 English",
+    "title": "Portugal: Cristiano Ronaldo announces his international retirement"
+   },
+   "left": {
+    "channel": "South China Morning Post",
+    "title": "Ronaldo retires from international football"
+   }
+  },
+  "outlets": 16,
+  "score": 24.2969,
+  "clips": [
+   "8blX6uoDbFE",
+   "CEH9cb2552o",
+   "EqUuVtsxdy0",
+   "FHWrocCD79I",
+   "FOhNx90Sejc",
+   "P5XM28cjbk8",
+   "P8rQnNM5jMY",
+   "PBh-fJajS5U",
+   "PmgqS4qq7fY",
+   "RIu734CxYqE",
+   "Rm1HwfLwsgg",
+   "_6ef7JKeyVk",
+   "aR0YfbZPt4I",
+   "dU0SpUJ9xNc",
+   "okz6TfeguAQ",
+   "qMr6MoM8_Qg",
+   "rbmrF70Udvc",
+   "soYlVtIuih4",
+   "woHdiOwXHqY"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "PM Andy Burnham says Russell Brand's crimes were 'horrific' as he pays tribute to victims.",
+  "topic": "politics",
+  "sides": {
+   "left": 1,
+   "center": 1,
+   "right": 0,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "Guardian News",
+    "title": "'Justice has been served' for Russell Brand's victims, prosecutor says"
+   },
+   "center": {
+    "channel": "BBC News",
+    "title": "PM Andy Burnham says Russell Brand's crimes were 'horrific' as he pays tribute to victims."
+   }
+  },
+  "outlets": 14,
+  "score": 22.8823,
+  "clips": [
+   "-8w6WqRcOuo",
+   "-CC2T3x3kjc",
+   "-MqfZ_NNyEQ",
+   "0YLUbRHhmmA",
+   "0uEPe7vnmI4",
+   "4Svd0efwwDQ",
+   "5zEy3GrJ2gY",
+   "6HsMl7yhXK0",
+   "6XgJYDeFWCc",
+   "AU5iLY3P2Eg",
+   "AujiGh9vW5A",
+   "BYN8z127BiU",
+   "Iagtxo_hcgQ",
+   "PP52lMe8dYE",
+   "TM4C-ZTmLlQ",
+   "Yfxde999jl8",
+   "caGgbhsunC0",
+   "i49OiWnUQI8",
+   "kEB7X4DrjOI",
+   "mZcy0S-Vlz0",
+   "mnberb0SmQ0",
+   "n2s1-CpEu-A",
+   "nSh8S8hhGvM",
+   "u0COTEOG4f8",
+   "wNx2-L_wrJY"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "Kenyan cult leader sentenced to 200 years in prison",
+  "topic": "other",
+  "sides": {
+   "left": 2,
+   "center": 4,
+   "right": 2,
+   "state": 1,
+   "unrated": 2
+  },
+  "by_side": {
+   "left": {
+    "channel": "Associated Press",
+    "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison"
+   },
+   "center": {
+    "channel": "BBC News",
+    "title": "Doomsday cult leader given life sentence for murdering 191 people."
+   },
+   "right": {
+    "channel": "New York Post",
+    "title": "Cult Leader Sentenced for Horrific Murder of 190 Children in Kenya"
+   }
+  },
+  "outlets": 11,
+  "score": 21.7893,
+  "clips": [
+   "0C4FKF4Q-Dk",
+   "6B5CoHi4Yqc",
+   "8b4eNuTDmhQ",
+   "VN_bYP2sAvM",
+   "ZqrN_D2K_gs",
+   "cboF1AksU0k",
+   "fW-zREUd1fY",
+   "jHNqbYoXrVo",
+   "lvgn7RFpIGE",
+   "mzrXZxwdxm8",
+   "ok_lKAxPJB0",
+   "p7-H_bknxmw",
+   "pboLvYR5u9Q"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "Thomas Markle Snr arrested in Florida over child sexual abuse images",
+  "topic": "other",
+  "sides": {
+   "left": 4,
+   "center": 3,
+   "right": 2,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "ABC News Australia",
+    "title": "Meghan Markle's father charged with possessing child sexual abuse material"
+   },
+   "center": {
+    "channel": "BBC News",
+    "title": "Meghan's father Thomas Markle charged over possession of child sex abuse material."
+   },
+   "right": {
+    "channel": "GB News",
+    "title": "Thomas Markle update: Thomas Markle JR issued APOLOGY from police"
+   }
+  },
+  "outlets": 11,
+  "score": 19.9432,
+  "clips": [
+   "0YbP3fuMVKU",
+   "8N2O7rzJy-E",
+   "BVP-cXX6xXw",
+   "CL4fMbHXyIo",
+   "GsPPFzxfuCo",
+   "L5gf4zBD74A",
+   "P9e3_LHMfM0",
+   "S_1bhl44Glo",
+   "WFONmhmn7q8",
+   "_wEApZ_yJOE",
+   "iVJ8lDLOTEw",
+   "jtkIGVLBK-Q",
+   "lDWs1xMIO1E",
+   "muG8Cm_Ff3w",
+   "qyuLMOxI1Us"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "Nithya Raman ousts Karen Bass as Los Angeles mayor",
+  "topic": "politics",
+  "sides": {
+   "left": 2,
+   "center": 2,
+   "right": 3,
+   "state": 2,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "CNN",
+    "title": "Democratic socialist ousts Karen Bass in LA mayoral shakeup"
+   },
+   "center": {
+    "channel": "WION",
+    "title": "Indian Origin Raman Defeats Karen Bass; LA Gets First South Asian Mayor"
+   },
+   "right": {
+    "channel": "Sky News Australia",
+    "title": "LA takes another step left as DSA candidate defeats Karen Bass in mayoral race"
+   }
+  },
+  "outlets": 9,
+  "score": 16.6658,
+  "clips": [
+   "7QO1GMMJG3Y",
+   "KXBt6HlqdQw",
+   "Ni8-OB8gb7c",
+   "WXFEfrcBqqo",
+   "aP3LRf0Ebbw",
+   "hjz62BsfK8A",
+   "mGsv5H8Z8cQ",
+   "nIANSU2erMk",
+   "whd7eOgVZ0k"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "Hong Kong activist Joshua Wong jailed 10 more years",
+  "topic": "politics",
+  "sides": {
+   "left": 1,
+   "center": 1,
+   "right": 0,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "DW News",
+    "title": "Former Hong Kong activist Joshua Wong sentenced to 10 more years"
+   },
+   "center": {
+    "channel": "CNA",
+    "title": "Hong Kong activist Joshua Wong jailed 10 more years"
+   }
+  },
+  "outlets": 9,
+  "score": 2.4314,
+  "clips": [
+   "3jU4v3zc9eY",
+   "7q11hdU0JAs",
+   "D1NEVZcbpG0",
+   "DHJ-m3lvq8I",
+   "EBfgi0zB5OQ",
+   "GyxT8NmTgsw",
+   "KdMOFNRmKiI",
+   "XSOzYhA5NOs",
+   "jJQipl4TisM"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "Musk spent $483m backing the Republicans - what did he get in return?",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 1,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "Sky News",
+    "title": "Musk spent $483m backing the Republicans - what did he get in return?"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "US Midterm Results | Elon Musk Faces Democratic Scrutiny After Republicans' Midterm Setback"
+   }
+  },
+  "outlets": 8,
+  "score": 15.8459,
+  "clips": [
+   "-GzAhj9RDVo",
+   "1DyS5kNK4c0",
+   "4MFlbiWWLqw",
+   "6OMTIAcoGXE",
+   "6c92up14LKM",
+   "79lGHz74pyE",
+   "9MxBh2WbZX4",
+   "GKo2R_pyf1c",
+   "GdoGG1zkFCA",
+   "KR-PywWRnnY",
+   "Lyu8aUr3vb4",
+   "RClg-hF5jLM",
+   "YXkVdBIoZGc",
+   "hk-Pdbh-tA4",
+   "hmyeUYQ_JGs",
+   "jUQQclobiqc",
+   "oT0S1B0GQ7g",
+   "ppVIbHDymLQ"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "Trump eyes return to military strikes in Iran following midterms",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 4,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "US-Iran War: Advisers Urge Trump To Weigh Domestic Economic Fallout Of Iran War"
+   },
+   "right": {
+    "channel": "TRT World",
+    "title": "Trump to decide 'soon' on renewing Iran war campaign"
+   }
+  },
+  "outlets": 7,
+  "score": 14.9069,
+  "clips": [
+   "4MwmFwkqcS0",
+   "6l6Cs_KU-Wk",
+   "Bn995SR3hP8",
+   "ERbCZVy-HvQ",
+   "WKI9hY8OeA4",
+   "Wn97ur2JQIo",
+   "XCR46ayZF8Y",
+   "d9Ps5-wbrjQ",
+   "ebTQ2mNimdo",
+   "mwsFAXn6VS0",
+   "qTirW2tkCyQ",
+   "yCqRFRfund0"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "Chilling New 911 Audio Released After Crazed Obese Gunman Stormed a Tampa Citibank Over $2,500 debt",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 0,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "right": {
+    "channel": "Fox News",
+    "title": "SEE IT: Marine vet TAKES DOWN gunman in Tampa"
+   }
+  },
+  "outlets": 6,
+  "score": 16.819,
+  "clips": [
+   "4DkWshJ8VWQ",
+   "OD-wZ1jEBtM",
+   "Ub8ZVxNd7G8",
+   "VGvHX1ImsXI",
+   "XX7r1bf6ADk",
+   "YkonkBmuVYI",
+   "aCMzNyyUjPQ",
+   "onqOGbvlZcA"
+  ]
+ },
+ {
+  "day": "2026-11-05",
+  "headline": "Dog walker rescues baby koala from python's grasp in Australia",
+  "topic": "other",
+  "sides": {
+   "left": 2,
+   "center": 2,
+   "right": 2,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "CNN",
+    "title": "Baby koala saved from python"
+   },
+   "center": {
+    "channel": "BBC News",
+    "title": "Woman rescues young koala from large snake."
+   },
+   "right": {
+    "channel": "New York Post",
+    "title": "Terrifying Moment Woman Intervenes in Struggle Between Koala and Python"
+   }
+  },
+  "outlets": 6,
+  "score": 14.9877,
+  "clips": [
+   "PosC18bNK6I",
+   "RrU3L20HM6I",
+   "T9A18dw58y0",
+   "ZsXX7FQ_2QY",
+   "dsqluIfADG8",
+   "yaR-OsBcbOU"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "Security expert warns of wider threat amid wave of bomb hoaxes",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 0,
+   "right": 1,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "right": {
+    "channel": "GB News",
+    "title": "Security expert warns of wider threat amid wave of bomb hoaxes"
+   }
+  },
+  "outlets": 21,
+  "score": 30.9707,
+  "clips": [
+   "0adDyfC8-aw",
+   "2aQvO6QuJbQ",
+   "3lWLDOMEGc4",
+   "5Kk2uoYASvY",
+   "5nokfjQB13w",
+   "6wA7Iz9LkoE",
+   "82wZ9grqSAk",
+   "8XXbBj3B-IM",
+   "9vEXDMt4G7A",
+   "AlMM20LDhoo",
+   "Byb1NaSYFig",
+   "Eua-HJqttSE",
+   "GBCFYRy1rxw",
+   "GJXCQb63i5I",
+   "I_04977inmY",
+   "J8Bt97zBmQw",
+   "KbXoaZSevrA",
+   "KvHzid865tA",
+   "L-lxixkGJnc",
+   "LWsOjxG_St0",
+   "NgsKKp_H2w4",
+   "Ob54dox0VAo",
+   "OrrcSu5r1eI",
+   "OyqTzb9NBYo",
+   "QcZqUadU4uE",
+   "S6Kcf60WB8A",
+   "SoWS2OgUAPg",
+   "X8aApFjvhtc",
+   "Z_nZZjVgOY0",
+   "cmjPNopDURo",
+   "cxjZoHCF5AY",
+   "dD1-3pl9L1U",
+   "drPfZAPfMJU",
+   "iJpjBfUaiLI",
+   "l2u3OIxp-g0",
+   "l7rmNJyGArk",
+   "lNewmayDhaY",
+   "lVprFeFLcVw",
+   "ltVYZVAnX9M",
+   "nn4dqXlOv30",
+   "oqR5NGnp_Ag",
+   "pt4_SP8c7_o",
+   "qJ9Uw9wkGak",
+   "rPQBsClF-h8",
+   "tXfARz9T_Ro",
+   "trkgRti1a-8",
+   "vYb0IQ5bfi0",
+   "wQiUIeGQmJ0",
+   "x-VNZAVgwR0",
+   "xaJL791dJkM"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "Violent Clashes Erupt at Paris’ Place de la Nation as Rioters Ignite Street Fires",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 0,
+   "right": 3,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "right": {
+    "channel": "Fox News",
+    "title": "Over HALF-MILLION take to streets as France braces for VIOLENT RIOTS"
+   }
+  },
+  "outlets": 19,
+  "score": 29.9645,
+  "clips": [
+   "16s1VrX-hEQ",
+   "21v0ypiMqq0",
+   "2VYBm1Z57d0",
+   "2zeNfS54BDw",
+   "4-_R5fVJZWg",
+   "7MK_Bno24hQ",
+   "8tS_SjHHzqU",
+   "9GNRfhQB0EQ",
+   "9gl5ZSMAq9M",
+   "A7MuyeLvpzY",
+   "AozAHJVQ3hA",
+   "BLH__cP-xCE",
+   "CkuN8iC2iig",
+   "DbbMRGJgPRQ",
+   "FI2Q98vdQ94",
+   "FXy6a3BvXSA",
+   "FvEnnDgUV9g",
+   "FvZrQR4yNPc",
+   "H8TjFTae6VM",
+   "Hs-KvzFNB2c",
+   "JM_XwPkayJU",
+   "KPsbXaEzhW4",
+   "Kd97fJ4TYIY",
+   "RItUPxoA0Is",
+   "ReTxiIyP0nE",
+   "TFZcDBwUI4c",
+   "UWNOrv3z-xY",
+   "WNHrO6Nzxek",
+   "Y3sZLakcPLY",
+   "ZWBugOYD7lY",
+   "ZWdzQS7i_SM",
+   "ZepI7TtHFG4",
+   "axa_6ZspA6k",
+   "covtQ4c999o",
+   "cp1zs7gjhIM",
+   "dA1GPugkhTA",
+   "dzRBQmak4xw",
+   "g96PjcuOxHc",
+   "iQuhXxJPfIA",
+   "iqS3DElFjAk",
+   "mZXX_ca6IZU",
+   "oeIMwuNFrQU",
+   "pSdZoC5CS8c",
+   "peC7UP0rjj8",
+   "qC4ue_qkxKw",
+   "qQn2wIB1Xl4",
+   "s-GP_VzPEik",
+   "sGbhg15LlDg",
+   "u5Yp-xVN1yg",
+   "udrgFXSVs0g",
+   "vRJz2-9RxvA",
+   "wEugmRm9bVI",
+   "xdlKH8mfZD0",
+   "xoPLXErzkA0",
+   "zjbG6339tCk"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "Fourth Saturday of mass demonstrations in France",
+  "topic": "politics",
+  "sides": {
+   "left": 1,
+   "center": 1,
+   "right": 1,
+   "state": 2,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "Bloomberg Television",
+    "title": "French Protests: More Than Half a Million Join Cost-of-Living Demonstrations"
+   },
+   "center": {
+    "channel": "FRANCE 24 English",
+    "title": "Fourth Saturday of mass demonstrations in France"
+   },
+   "right": {
+    "channel": "Times of India",
+    "title": "France Strikes: Workers Protest Cost Of Living As Government Battles Rising Debt"
+   }
+  },
+  "outlets": 15,
+  "score": 21.5412,
+  "clips": [
+   "2VYBm1Z57d0",
+   "4-_R5fVJZWg",
+   "8tS_SjHHzqU",
+   "9GNRfhQB0EQ",
+   "A7MuyeLvpzY",
+   "BLH__cP-xCE",
+   "H8TjFTae6VM",
+   "Hs-KvzFNB2c",
+   "JM_XwPkayJU",
+   "KDpYvqx10k4",
+   "MLFgNRx6-IE",
+   "ReTxiIyP0nE",
+   "Y3sZLakcPLY",
+   "dzRBQmak4xw",
+   "g96PjcuOxHc",
+   "iQuhXxJPfIA",
+   "jCQ1JDkxuI0",
+   "pSdZoC5CS8c",
+   "s-GP_VzPEik",
+   "u5Yp-xVN1yg",
+   "xdlKH8mfZD0",
+   "xoPLXErzkA0",
+   "zjbG6339tCk"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
+  "topic": "politics",
+  "sides": {
+   "left": 1,
+   "center": 1,
+   "right": 1,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "ABC News Australia",
+    "title": "Trump backs Hegseth, protects Oval Office after midterm losses"
+   },
+   "center": {
+    "channel": "FRANCE 24 English",
+    "title": "Pressure mounts on US Defence chief Hegseth after Republican election rout"
+   },
+   "right": {
+    "channel": "TRT World",
+    "title": "Trump insists Hegseth will remain defence secretary"
+   }
+  },
+  "outlets": 12,
+  "score": 22.4431,
+  "clips": [
+   "-An4lpS3Loc",
+   "6xxHRsfCaKE",
+   "Bvu5_LqgTao",
+   "CvnNwGUsbRc",
+   "DOeaB6k9doE",
+   "EIso6q1YBPY",
+   "EuxnEBnhfns",
+   "GI92rl0ZOVI",
+   "MPqd_85hlqI",
+   "Q1Q4pgzAfb0",
+   "V1dggYjIVZM",
+   "V9zlZVJTRfA",
+   "VOHROXnz1i8",
+   "VpzIc6_Uteg",
+   "ZczU5ArBlMs",
+   "_9vDshuT1bI",
+   "alsAwAapDjk",
+   "bamAriV3qVQ",
+   "dXLIVl441b4",
+   "gSh_LPf9Exw",
+   "ju9NyfH2GuM",
+   "kRj2s6PZeE8",
+   "lkOZgAhH_Rk",
+   "mBaur5w8jrg",
+   "oEMArnzDYWc",
+   "qlnXz7p-cvw",
+   "tJZJUFz2TZw",
+   "wZIg7YBCwdU",
+   "wlQcj3EPjTA"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "Keisha Lance Bottoms wins Georgia race, first Black woman elected US state governor",
+  "summary": "Democrat Keisha Lance Bottoms becomes the first Black woman elected governor of a US state.",
+  "summary_by": "Reuters",
+  "topic": "politics",
+  "outlets": 12,
+  "sides": {
+   "left": 5,
+   "center": 4,
+   "right": 3,
+   "unrated": 0
+  },
+  "score": 19.0747,
+  "clips": [
+   "-3ww_wNcArE",
+   "-u3fjdvMb4M",
+   "Hrk5Y1qtAdg",
+   "I3OVAIffKp8",
+   "LF1zyX7tq0Y",
+   "MjealEB5R64",
+   "OHCzFNm2-3A",
+   "PDJIC-swELk",
+   "QBdinPHMSxk",
+   "SJn4aSVIGsU",
+   "ktcCWO6Hjts",
+   "mD_2Fv8zM8E",
+   "wxlvL8wr84c"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "Protests Erupt Across Paraguay After Ueno Bank Shutdown",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 2,
+   "right": 0,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "Reuters",
+    "title": "'This was inhumane': Paraguayans voice their anger over bank collapse"
+   }
+  },
+  "outlets": 10,
+  "score": 20.9234,
+  "clips": [
+   "0iCJ2-64yoQ",
+   "AqZidxC1A_M",
+   "D7GjOOxy940",
+   "FyBteZtteUY",
+   "GvjCnMSMYZE",
+   "IJJ6_YMN0yU",
+   "JduLpSE06UQ",
+   "KCzz1f6zVYc",
+   "L6ARlF85Fnk",
+   "MchTVR4u7Po",
+   "R7jzZtRGROo",
+   "SAtyiZxziwY",
+   "T16HKdyHGy0",
+   "VwI33hA2tnI",
+   "WvEcoKeZ5Ik",
+   "YfOM21INLBs",
+   "a552DAU9DbQ",
+   "d5DVB09_ig4",
+   "e4C9jeNYl1U",
+   "hIGQ29bgjEs",
+   "kTj5WH_s-M8",
+   "luGy5uMzsKg",
+   "sEZgc0QcryU",
+   "shFBm9wkuNA",
+   "tcqkPxsnv8Q",
+   "u31-qO3FT2g"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "'Extraordinary event' as Melania Trump claims credit for Oleshky ceasefire",
+  "topic": "politics",
+  "sides": {
+   "left": 3,
+   "center": 2,
+   "right": 3,
+   "state": 2,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "CNN",
+    "title": "Zelensky 'thankful' for Melania Trump's Russia-Ukraine peace efforts"
+   },
+   "center": {
+    "channel": "Reuters",
+    "title": "Melania Trump says Ukraine and Russia must 'find common ground'"
+   },
+   "right": {
+    "channel": "New York Post",
+    "title": "Melania Brings Warring Nations Together at White House for Russia-Ukraine Peace Talks"
+   }
+  },
+  "outlets": 10,
+  "score": 20.8706,
+  "clips": [
+   "9g4hWX1U3uc",
+   "HWS6ldSxC6c",
+   "KuGqRBxlPiw",
+   "Lxg6kYWQzT4",
+   "T0RZXW5-UYE",
+   "UZAwKXOAYn0",
+   "V99magJZ5sM",
+   "VWJOtQkDyko",
+   "Ve372HP0xk4",
+   "WX9v20AwLjw",
+   "Y8vtoPEIdaM",
+   "di-tUioQfZs",
+   "eai62LY64Wo",
+   "elECWBhVUyg"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "‘Biggest mistake’: Pauses in the Iran war blamed for Republican midterm wipeout",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 0,
+   "right": 1,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "right": {
+    "channel": "Sky News Australia",
+    "title": "‘Biggest mistake’: Pauses in the Iran war blamed for Republican midterm wipeout"
+   }
+  },
+  "outlets": 9,
+  "score": 24.293,
+  "clips": [
+   "-mqnBKkrpAU",
+   "1DyS5kNK4c0",
+   "4MFlbiWWLqw",
+   "5O5PHVY4VHE",
+   "6aaR8bve144",
+   "6gs-fVCTrmA",
+   "79lGHz74pyE",
+   "7DPzc7BXB74",
+   "7k4fMsgKrjU",
+   "7oHhekmlL8Y",
+   "8XCsokYtFac",
+   "AefnkrAMpBw",
+   "BbqFSe1glEY",
+   "BcuAeUPqTho",
+   "Bn995SR3hP8",
+   "C748I3_5peQ",
+   "CZTJjC_75YM",
+   "D9_vV1nt5I0",
+   "EYfFtZhCA8E",
+   "EmkYKaYeBx0",
+   "GKo2R_pyf1c",
+   "KY9SBel1DGI",
+   "LcsXqDw4Sc8",
+   "LfGH1eEgv3M",
+   "Lyu8aUr3vb4",
+   "MH9LomlMyCE",
+   "OXG_WTnNgqc",
+   "OwaEazHkzR4",
+   "OzuflrkBZtA",
+   "PDqBUxoXgkI",
+   "QmsicF4DsFQ",
+   "Re_JI4Fdy4Y",
+   "SqjIp_ztnew",
+   "V7Fho4wiRVM",
+   "Wn97ur2JQIo",
+   "XCR46ayZF8Y",
+   "_-WkJiapWx8",
+   "aK6FlImhASM",
+   "aS0zWmuC4sM",
+   "bMM_0zqBrMk",
+   "c8DJgMyLw6Y",
+   "cPprdH8he9Q",
+   "dCHX-nBdp_0",
+   "dxjn1IAvlyU",
+   "e0nIQ8oXOzY",
+   "ebTQ2mNimdo",
+   "gbWYcLBM6F0",
+   "hk-Pdbh-tA4",
+   "iRuSG9_bQhc",
+   "jUQQclobiqc",
+   "lYw5QGy8-dk",
+   "mwsFAXn6VS0",
+   "oT0S1B0GQ7g",
+   "otjEhte9S4M",
+   "ppVIbHDymLQ",
+   "qTirW2tkCyQ",
+   "rTZi2WL9p4Q",
+   "s9ey2j-cfIo",
+   "u1iaC799qbo",
+   "uuc-XJ4doac",
+   "xVmJG9h4MHI",
+   "zuiZdvwC2AI"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "Delhi Air Quality Worsens As AQI Nears 400",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 1,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "WION",
+    "title": "Delhi Air Quality Worsens As AQI Nears 400"
+   },
+   "right": {
+    "channel": "India Today",
+    "title": "Delhi Pollution: Dhaula Kuan Records AQI Of 318, Air Quality ‘Very Poor’"
+   }
+  },
+  "outlets": 7,
+  "score": 15.9781,
+  "clips": [
+   "8XI497B9Aeg",
+   "8Yey6Opnbho",
+   "9z0em6U5Xhg",
+   "CN0yp797OKM",
+   "D0fKDRpFbNM",
+   "FE-ahNpJHFs",
+   "Ff1jnyHqDyM",
+   "I6suqNdVzwQ",
+   "ILtsNwZcDiw",
+   "J_40lWp7Mi4",
+   "MmG9fRteJWA",
+   "SfqkaPM9qFk",
+   "XPgdDiN7g0E",
+   "XS1yHIFEWwU",
+   "jmyNmGLFzBU",
+   "kJ0dqxkzRpo",
+   "klwgdlBc3Pc",
+   "mNhz0aigyPw",
+   "mcoGNGNi48I",
+   "muloglxYn_U",
+   "o59Sm3B24f0",
+   "o7PXMdtZiig",
+   "oWzN9HG-uW8",
+   "qRv9Ou6qY98",
+   "vmrR3lpIOlA"
+  ]
+ },
+ {
+  "day": "2026-11-04",
+  "headline": "El-Sayed: Michigan Rejected ‘Hateful, Spiteful Campaign’ After Months of Republican Attacks",
+  "topic": "politics",
+  "sides": {
+   "left": 1,
+   "center": 2,
+   "right": 1,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "Associated Press",
+    "title": "Michigan's Arab American community reacts to\nEl-Sayed's victory"
+   },
+   "center": {
+    "channel": "Reuters",
+    "title": "El-Sayed's win brings hope to Muslim-Americans in Michigan"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "Abdul El-Sayed: Michigan Voters Rejected 'Hateful, Spiteful Campaign'"
+   }
+  },
+  "outlets": 5,
+  "score": 23.1462,
+  "clips": [
+   "0XQ9pAvYP4U",
+   "1YPmSTmmp6Q",
+   "1YnNM-e5FDQ",
+   "6WtvjNl7EoU",
+   "7wBchOfSgvo",
+   "9DtBtbeRa60",
+   "9LphseoaQeQ",
+   "A1fJXp8iJuY",
+   "APYpKDE2NVQ",
+   "BUD2av4m-VE",
+   "FRi3ytDmlbo",
+   "G0_i-LiC4ro",
+   "GhurP4_qVt0",
+   "K55eJIfQs5g",
+   "M72KDRiZpMc",
+   "Mq0B42UqV2c",
+   "OMue2M2OqOM",
+   "QkDbiKtqguI",
+   "RiM6X5BhuUY",
+   "TZexBDezhvg",
+   "WLXmmgacnQQ",
+   "X61JtNxwR5U",
+   "X92hi1KC_1Q",
+   "Z8RWLz2071c",
+   "ZJ-BNUS-ji0",
+   "dA0WoQ8pHVA",
+   "dhasrurFzvc",
+   "e2CzeJOLQ-Q",
+   "f5z2GVmSxoY",
+   "gA043no4HAY",
+   "hC80-Wo0Yws",
+   "hCy1_-WtmsQ",
+   "hmlsniHb9eA",
+   "kuDj8_b2qgw",
+   "pQchI55hF18",
+   "wS48ccus5I0",
+   "y8Bm3EJqtM0"
+  ]
+ },
+ {
+  "day": "2026-11-03",
+  "headline": "Abdul El-Sayed set to become first Muslim senator after win in Michigan",
+  "summary": "Democrat Abdul El-Sayed has become the first Muslim elected to the US Senate after winning an open seat in Michigan on Tuesday, according to media projections.",
+  "summary_by": "CNA",
+  "topic": "politics",
+  "outlets": 19,
+  "sides": {
+   "left": 6,
+   "center": 5,
+   "right": 8,
+   "unrated": 0
+  },
+  "score": 24.9812,
+  "clips": [
+   "0XQ9pAvYP4U",
+   "1OV7Av2CsSg",
+   "1YnNM-e5FDQ",
+   "9DtBtbeRa60",
+   "APYpKDE2NVQ",
+   "GhurP4_qVt0",
+   "OMue2M2OqOM",
+   "Q2nEakfbPT8",
+   "X61JtNxwR5U",
+   "Z8RWLz2071c",
+   "ZJ-BNUS-ji0",
+   "dhasrurFzvc",
+   "gA043no4HAY",
+   "h4GTwXfw6MA",
+   "hC80-Wo0Yws",
+   "hmlsniHb9eA",
+   "kuDj8_b2qgw",
+   "lXGaySWwPkw",
+   "y8Bm3EJqtM0"
+  ]
+ },
+ {
+  "day": "2026-11-03",
+  "headline": "Do the US midterm results mean the end of Maga?",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 1,
+   "right": 1,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "Financial Times",
+    "title": "Do the US midterm results mean the end of Maga?"
+   },
+   "right": {
+    "channel": "NDTV",
+    "title": "US Midterm Election Results"
+   }
+  },
+  "outlets": 5,
+  "score": 22.3641,
+  "clips": [
+   "357wCFWj2OY",
+   "4PloXuSor7Q",
+   "4eKlsYA1RBM",
+   "6NShg1wDwsc",
+   "7Rc1_luhMPE",
+   "8XCsokYtFac",
+   "8s_rO3J5Cus",
+   "EYfFtZhCA8E",
+   "GMUZLauv6Os",
+   "IiOZjFxteO0",
+   "InKcSK3NjmA",
+   "Iuboo4xOKqA",
+   "KtpvDoyyvwk",
+   "OAxwTtCz4Ao",
+   "SqjIp_ztnew",
+   "Tzl175NSIzI",
+   "Um3hFPiRmpc",
+   "VwFTflAEtFQ",
+   "Xdnt9LUjkZg",
+   "YKozgHnF1gs",
+   "Z1HnjXUQkCA",
+   "_lvPEcrUOPw",
+   "aGudoelJe8U",
+   "aS0zWmuC4sM",
+   "aeRoqWlAIHM",
+   "ba9gzr0a-qU",
+   "cl4xHSMavJM",
+   "dP3S8z3l3dk",
+   "gbWYcLBM6F0",
+   "gpVwOFlQ4WE",
+   "j0exaelnt0s",
+   "l-XefLvrssI",
+   "lJmDUZRX8CI",
+   "nPh-EfEPy-o",
+   "qLV2y__o8KE",
+   "rOWvTxBxnmw",
+   "s_lvCztHRcI",
+   "t8E_ZBIp3YI",
+   "yW5bqzmO8e8",
+   "yigIiC9_ydA",
+   "zEEOquWrXvs"
+  ]
+ },
+ {
+  "day": "2026-11-03",
+  "headline": "'Iran's Regime Was the Biggest Winner in US Midterms'",
+  "topic": "politics",
+  "sides": {
+   "left": 0,
+   "center": 0,
+   "right": 1,
+   "state": 1,
+   "unrated": 0
+  },
+  "by_side": {
+   "right": {
+    "channel": "The Telegraph",
+    "title": "How the Iranian regime is using the midterm election results to its advantage"
+   }
+  },
+  "outlets": 5,
+  "score": 20.7244,
+  "clips": [
+   "1HHv_lnlRes",
+   "2SJlj9cmpAc",
+   "357wCFWj2OY",
+   "3ONx6s5i6O8",
+   "3UvLzePtIUQ",
+   "4DLANElW670",
+   "5DTp2AkRO7E",
+   "6CzI1uEcqCE",
+   "6tqY2HVO0J0",
+   "7GawMpQ6Uy4",
+   "7Rc1_luhMPE",
+   "8XCsokYtFac",
+   "91dO4aCfTjU",
+   "A2qlSUh2PAQ",
+   "DElEmeED-GQ",
+   "EYfFtZhCA8E",
+   "IZe92pR5rjw",
+   "KefNFh6vtbA",
+   "Qzqz29e_PZc",
+   "Wf9ZhbOTUnc",
+   "WqYZgyL2cDs",
+   "X5bxNnXdHoQ",
+   "XiXwkdQdk64",
+   "YYvUZvF9_A8",
+   "YvrVdzVMi7k",
+   "aGudoelJe8U",
+   "aS0zWmuC4sM",
+   "anCZjLEl84g",
+   "b1L0VHfMYcQ",
+   "cl4xHSMavJM",
+   "gbWYcLBM6F0",
+   "hAz4ZL4q2Z4",
+   "i2wEcBq3M9U",
+   "j0exaelnt0s",
+   "nPh-EfEPy-o",
+   "oSZGtM0hmx8",
+   "odoxEXFck7A",
+   "sgEoQOoZ-wA",
+   "v_3kN0WvgQA",
+   "zEEOquWrXvs",
+   "zXOJyhb9n4E"
+  ]
+ },
+ {
+  "day": "2026-11-03",
+  "headline": "Death toll from Russian bombing of Ukrainian aid point rises to 53, governor says",
+  "topic": "politics",
+  "sides": {
+   "left": 1,
+   "center": 1,
+   "right": 0,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "left": {
+    "channel": "Associated Press",
+    "title": "Evacuations as death toll rises to 53 after Russian airstrike on Komyshuvakha"
+   },
+   "center": {
+    "channel": "Reuters",
+    "title": "Death toll from Russian bombing of Ukrainian aid point rises to 53, governor says"
+   }
+  },
+  "outlets": 4,
+  "score": 15.6744,
+  "clips": [
+   "3yLG-pzljAA",
+   "6QlJvIfTD9I",
+   "9WRy9IYlhkU",
+   "AOtLwFxoPH0",
+   "B7uTL6PsSc0",
+   "EwHEh039ccM",
+   "HHTRmxDep2Q",
+   "I_SuNvATMCo",
+   "JeEJdmjrCeQ",
+   "MvKcbU1byVY",
+   "NPCCVRjdp9Q",
+   "OawpGgY7OAQ",
+   "UVWbU5NLI4Q",
+   "WWppY07A0Pk",
+   "XKlADXX6gMM",
+   "aVcAQhkQ1P8",
+   "bMFVeQdeCXw",
+   "bXwwlF41I3Y",
+   "cNax_o_BAjE",
+   "iqvLG5sBZdM",
+   "p21FjkhtQ6Y"
+  ]
+ },
+ {
+  "day": "2026-11-03",
+  "headline": "Football World Mourns Former Tenerife Striker Jesus De Miguel",
+  "summary": "Could football change after the death of Jesus de Miguel?",
+  "summary_by": "Al Jazeera English",
+  "topic": "sports",
+  "outlets": 3,
+  "sides": {
+   "left": 1,
+   "center": 2,
+   "right": 0,
+   "unrated": 0
+  },
+  "score": 21.6453,
+  "clips": [
+   "BOCTHlBsCzc",
+   "EI1kz8I-jdc",
+   "Eu4o9ZuiW90",
+   "Hgq6HucLmpI",
+   "Lbz_otQL37I",
+   "N0LvTWrsyCY",
+   "OlnHKdnifcQ",
+   "QQuvE6RYGF4",
+   "S3ygfjpNAIQ",
+   "XqlWpsDTepI",
+   "_Clm3qwUalI",
+   "b2CaWVyOXBk",
+   "dM2-FEYPivE",
+   "g-2kEN2uNb4",
+   "gmsOhGZVMCY",
+   "gqa5X1Mu_Fg",
+   "gyu3iSQmMxE",
+   "iaY6HFN1r6E",
+   "qQGCcgHUqZY",
+   "qtZa6ihq6UM"
+  ]
+ },
+ {
+  "day": "2026-11-03",
+  "headline": "One tourist killed after helicopter collision near Mt. Everest",
+  "summary": "에베레스트 근처 헬기 2대 충돌 후 추락…관광객 2명 사상 An Indian tourist has been killed after two helicopters collided while trying to land near Mount Everest base camp.",
+  "summary_by": "Arirang News",
+  "topic": "other",
+  "outlets": 3,
+  "sides": {
+   "left": 1,
+   "center": 1,
+   "right": 1,
+   "unrated": 0
+  },
+  "score": 20.4315,
+  "clips": [
+   "3rBq97Bcf9o",
+   "3uGliM7ABqg",
+   "4Hs6HvGyVuk",
+   "4nWUh7zfgYI",
+   "6vuRC0Reu9c",
+   "8SzruTBoMKo",
+   "GEsPNHiean4",
+   "Jvqo_e3ujRU",
+   "OcMjMvRpPX0",
+   "RT4FkjyeWeg",
+   "YxsBbl8hzYY",
+   "bwKxiYcMlfY",
+   "gVZmQMK71fY",
+   "iDRKBTkCahc",
+   "jggmCDzlYAk",
+   "jp8xyeFJDvA",
+   "onhwB79wVsk"
+  ]
+ },
+ {
+  "day": "2026-11-03",
+  "headline": "Trump Says US To End $4 Billion In Annual Aid To Israel By 2027",
+  "summary": "US President Donald Trump has announced plans to end nearly $4 billion in annual assistance to Israel by the end of 2026.",
+  "summary_by": "WION",
+  "topic": "politics",
+  "outlets": 3,
+  "sides": {
+   "left": 1,
+   "center": 1,
+   "right": 1,
+   "unrated": 0
+  },
+  "score": 16.3099,
+  "clips": [
+   "Axo2XSXr6QI",
+   "CvehuItVtZQ",
+   "OP0-7JUWtAU",
+   "fBSAKNH_gkw",
+   "gi6s2v-S5tE",
+   "jhv6W9Fuvac",
+   "ncawAu3kTpY",
+   "rKc3Lug33hs",
+   "tinT02HvDuc",
+   "w_jmJrWsr14",
+   "zLnxz5qUQrY"
+  ]
+ },
+ {
+  "day": "2026-11-02",
+  "headline": "Learjet crashes in Florida, killing all 9 onboard",
+  "summary": "Dashcam footage captures the moment a small plane crashes into a neighborhood in southern Florida, killing all nine people aboard.",
+  "summary_by": "Al Arabiya English",
+  "topic": "other",
+  "outlets": 19,
+  "sides": {
+   "left": 10,
+   "center": 4,
+   "right": 5,
+   "unrated": 0
+  },
+  "score": 17.8441,
+  "clips": [
+   "7a_S5UJ9ki0",
+   "8Pt5fs-y3Ow",
+   "8eSjn3E0f4E",
+   "9BblKr2SH14",
+   "Du4BPPBb0MA",
+   "G3yClTaTUg4",
+   "GE3KbUXRqBE",
+   "JoRbbtV6MOI",
+   "LhKosCGD9Yw",
+   "LoiW4DkFiDM",
+   "MJhD6_HmHRs",
+   "MTlnrZ64Z08",
+   "QMvupRpeDnw",
+   "RzbHntInghI",
+   "YC4Tx67GgE0",
+   "YG0HqrMBPFo",
+   "_M4F4G742w8",
+   "gBfT_LajRlQ",
+   "h4k4RBzwQEE",
+   "jO4W-045nyM",
+   "n1wGs7eeITg",
+   "odUWfrvQiTs",
+   "pjZpyfXlf2Y",
+   "suYwiJ2HNFQ",
+   "vaI-Ri3kz6U"
+  ]
+ },
+ {
+  "day": "2026-11-02",
+  "headline": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps",
+  "summary": "Russia and Ukraine have reportedly become the victims of a cyberattack that saw their emergency alert apps hacked and false messages warning of nuclear and missile attacks sent to citizens.",
+  "summary_by": "Sky News Australia",
+  "topic": "politics",
+  "outlets": 11,
+  "sides": {
+   "left": 4,
+   "center": 5,
+   "right": 2,
+   "unrated": 0
+  },
+  "score": 18.236,
+  "clips": [
+   "2ed37ws7-eQ",
+   "6GJrxNgBafA",
+   "6tbli9EBfJ0",
+   "E_iYG87Ge-M",
+   "FbLc-Dgf5CA",
+   "KS1SsVfu5B0",
+   "LfIK4EpUWxg",
+   "SkuijyBls2I",
+   "TFphknBMl38",
+   "Vy3QOlJJslw",
+   "jNagxF47k3Y",
+   "zlLFAMTmWfM"
+  ]
+ },
+ {
+  "day": "2026-11-02",
+  "headline": "Several European Flights Disrupted After 'Bomb Threats'",
+  "summary": "Seven flights across Europe were targeted by suspected bomb threats.",
+  "summary_by": "Al Jazeera English",
+  "topic": "other",
+  "outlets": 7,
+  "sides": {
+   "left": 2,
+   "center": 2,
+   "right": 3,
+   "unrated": 0
+  },
+  "score": 15.014,
+  "clips": [
+   "IgVJJ3Zl7JI",
+   "M7ImoKNa9sg",
+   "NmeWNsBsfkM",
+   "WGexpGxDXOw",
+   "Z_nZZjVgOY0",
+   "iqlDOcWqulo",
+   "rPQBsClF-h8",
+   "sxcQj6V8iDA",
+   "y_anz3tmgxc"
+  ]
+ },
+ {
+  "day": "2026-11-02",
+  "headline": "Michigan Democrat's endorsement of Republican shakes up key Senate race",
+  "summary": "A prominent Michigan Democrat's endorsement of Republican Mike Rogers has given President Donald Trump's party an unexpected boost in a pivotal US Senate race that could determine control of Congress.",
+  "summary_by": "Reuters",
+  "topic": "politics",
+  "outlets": 5,
+  "sides": {
+   "left": 1,
+   "center": 3,
+   "right": 1,
+   "unrated": 0
+  },
+  "score": 13.9339,
+  "clips": [
+   "4mhoVhr7kZ0",
+   "VsKHUMDnn4c",
+   "g5hM10jQhRU",
+   "p2EEr6KlZvI",
+   "pHGOUyDypsg"
+  ]
+ },
+ {
+  "day": "2026-11-02",
+  "headline": "Michigan Senate rivals speak ahead of closely watched race",
+  "summary": "In the US midterm elections, the Senate race in Michigan has been one of the most closely watched in the country.",
+  "summary_by": "FRANCE 24 English",
+  "topic": "politics",
+  "outlets": 5,
+  "sides": {
+   "left": 2,
+   "center": 2,
+   "right": 1,
+   "unrated": 0
+  },
+  "score": 11.9482,
+  "clips": [
+   "5MOhrxE64kQ",
+   "9bZcR-ekuds",
+   "Kb3ykfsYJeo",
+   "LHZxsRKIwdg",
+   "On0BZn9CnH0",
+   "vfsvCvqFxc0"
+  ]
+ },
+ {
+  "day": "2026-11-02",
+  "headline": "World News: Russian glide bomb strike on Ukraine aid center kills at least 26",
+  "summary": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre in Ukraine’s Zaporizhzhia region.",
+  "summary_by": "Al Jazeera English",
+  "topic": "politics",
+  "outlets": 5,
+  "sides": {
+   "left": 2,
+   "center": 1,
+   "right": 2,
+   "unrated": 0
+  },
+  "score": 10.9539,
+  "clips": [
+   "6QlJvIfTD9I",
+   "EwHEh039ccM",
+   "HHTRmxDep2Q",
+   "JeEJdmjrCeQ",
+   "OawpGgY7OAQ"
+  ]
+ },
+ {
+  "day": "2026-11-02",
+  "headline": "US Elections: What The Midterm Polls Say",
+  "summary": "US midterm elections 2026: What are they and when will we know the results?",
+  "summary_by": "euronews",
+  "topic": "politics",
+  "outlets": 4,
+  "sides": {
+   "left": 2,
+   "center": 1,
+   "right": 0,
+   "unrated": 1
+  },
+  "score": 13.7456,
+  "clips": [
+   "9Y0fVvxja84",
+   "LSQfbKmwDlg",
+   "NUUPiRR-QSA",
+   "OlTH7qHDxe8"
+  ]
+ },
+ {
+  "day": "2026-11-02",
+  "headline": "Qatar hopeful US-Iran deal remains possible, spokesman says",
+  "summary": "Qatar says the US and Iran remain committed to negotiations and are reviewing proposals put forward by mediators.",
+  "summary_by": "Arab News",
+  "topic": "politics",
+  "outlets": 4,
+  "sides": {
+   "left": 2,
+   "center": 0,
+   "right": 2,
+   "unrated": 0
+  },
+  "score": 11.7574,
+  "clips": [
+   "Ksfi5zAFitw",
+   "ZUEePBdfn-o",
+   "cR80Sz-y3a8",
+   "kCDUe9W5PRE",
+   "mW2Waw5TxLA",
+   "uo1fvMndHbw"
+  ]
+ },
+ {
+  "day": "2026-11-02",
+  "headline": "France's Cyber Nightmare: Blood Banks Targeted, Bank Breached, Freezers Hacked",
+  "topic": "other",
+  "sides": {
+   "left": 0,
+   "center": 2,
+   "right": 0,
+   "state": 0,
+   "unrated": 0
+  },
+  "by_side": {
+   "center": {
+    "channel": "FRANCE 24 English",
+    "title": "Cyberattack hits French blood bank site, no blood products compromised"
+   }
+  },
+  "outlets": 3,
+  "score": 19.6056,
+  "clips": [
+   "-bDLb6_XYFc",
+   "-rZJUt2TMhg",
+   "1jWfFPLf1BY",
+   "1k0nDTsasOQ",
+   "30DC3WXM_V8",
+   "32rxM8F59ms",
+   "4z-hwUI7zRg",
+   "5kId0CawSt0",
+   "9IGrYaQrgP8",
+   "B8tPCoZIxvg",
+   "DVzZdH_KLkM",
+   "FOSQ7gjRpRw",
+   "Ho9-W7vuF3U",
+   "IKn9vAkJ4fs",
+   "I_5FilSEyzg",
+   "Ighq7UoigCY",
+   "NV8qGNQyIFs",
+   "P9afVxVbf6g",
+   "Tya8b5nS1d0",
+   "fhouzqyJlFc",
+   "juacPMX9oDY",
+   "lct0qk_MH1k",
+   "omK9V-v78eQ",
+   "yKFp7Njuf0o"
+  ]
+ },
+ {
+  "day": "2026-11-01",
+  "headline": "Abdul El-Sayed’s Historic Senate Win: Arab Americans Celebrate Michigan Victory",
+  "summary": "El-Sayed’s Senate win breaks barriers for Arab Americans in Michigan Muslim voters, who make up only about 2% of voters in Michigan, overwhelmingly voted for El-Sayed.",
+  "summary_by": "africanews",
+  "topic": "politics",
+  "outlets": 10,
+  "sides": {
+   "left": 4,
+   "center": 3,
+   "right": 3,
+   "unrated": 0
+  },
+  "score": 17.7442,
+  "clips": [
+   "0a_QZT8V8qs",
+   "0ngxG7R3lo8",
+   "4-1NQoRSLO0",
+   "FRi3ytDmlbo",
+   "IGazyTMfbPM",
+   "J0EyyNzk9iI",
+   "JykM_ZQgZCE",
+   "PN56nX0e_3Y",
+   "QkDbiKtqguI",
+   "QtYgjv1rh7c",
+   "X7udfhWX3ts",
+   "Xqs0aszvJXA",
+   "_lFIxELgYeg",
+   "bPfUhn7x-mA",
+   "cHqaXrVWIBw",
+   "cRnQxHurIQ0",
+   "dA0WoQ8pHVA",
+   "f5z2GVmSxoY",
+   "gFURmwFWH2Y",
+   "jM47NmR0rYs",
+   "jPySTcOEYQg",
+   "mwYICwRKTS4"
+  ]
+ },
+ {
+  "day": "2026-11-01",
+  "headline": "Thousands protest in India demanding resignation of election chief",
+  "summary": "Thousands of people took to the streets of India's capital, Delhi, on Sunday to demand the resignation of the country's election chief.",
+  "summary_by": "CNA",
+  "topic": "politics",
+  "outlets": 5,
+  "sides": {
+   "left": 2,
+   "center": 3,
+   "right": 0,
+   "unrated": 0
+  },
+  "score": 11.2424,
+  "clips": [
+   "3TcQQEGX4FY",
+   "9eSho5hTbKM",
+   "JXfUUC5_t2A",
+   "WvtlE-ZIAO8",
+   "_w2LIJptnQ4",
+   "pjJV9AXTN0Y"
+  ]
+ },
+ {
+  "day": "2026-11-01",
+  "headline": "Nine dead in small plane crash near Trump's Florida home",
+  "summary": "A plane crash has been reported near US President Donald Trump's Florida residence.",
+  "summary_by": "WION",
+  "topic": "politics",
+  "outlets": 4,
+  "sides": {
+   "left": 1,
+   "center": 2,
+   "right": 1,
+   "unrated": 0
+  },
+  "score": 26.6288,
+  "clips": [
+   "3E7g2Gqic8E",
+   "66u4shSgfII",
+   "8eSjn3E0f4E",
+   "Du4BPPBb0MA",
+   "JoRbbtV6MOI",
+   "LhKosCGD9Yw",
+   "MJhD6_HmHRs",
+   "ORhQm5IAQio",
+   "QMvupRpeDnw",
+   "RzbHntInghI",
+   "TSlVCKbQp0Q",
+   "YG0HqrMBPFo",
+   "_M4F4G742w8",
+   "bSw9MY5k02I",
+   "gBfT_LajRlQ",
+   "h4k4RBzwQEE",
+   "loSSGrAMl7M",
+   "mQJ-MXT0CJE",
+   "n1wGs7eeITg",
+   "nR_y6YCP0vU",
+   "odUWfrvQiTs",
+   "pjZpyfXlf2Y",
+   "rUVwIXfQyGk",
+   "s7oFDZViy8A",
+   "tTVz9u1C9v4",
+   "vaI-Ri3kz6U"
+  ]
+ },
+ {
+  "day": "2026-11-01",
+  "headline": "Karl Bushby Completes 28-Year Walk After 50,000 Km World Trek",
+  "summary": "It took ex-soldier Karl Bushby 28 years.",
+  "summary_by": "Al Jazeera English",
+  "topic": "other",
+  "outlets": 4,
+  "sides": {
+   "left": 3,
+   "center": 1,
+   "right": 0,
+   "unrated": 0
+  },
+  "score": 14.4794,
+  "clips": [
+   "1TuLprcGmSI",
+   "1t0Z1JyaX5A",
+   "3PF8lM9ta_w",
+   "9GMoPHmOB98",
+   "CGY6E-OIq7M",
+   "DPN3hcctaHw",
+   "EEL0aN8zTlI",
+   "MBJ2wEhDJz8",
+   "Z1YRVLSzPrY",
+   "iFb1wlKoclw",
+   "ugdhPKJOSGc",
+   "xGWeuh9DCAw",
+   "xjn3ios3yEA",
+   "yk-s5BUjbMk"
+  ]
+ },
+ {
+  "day": "2026-11-01",
+  "headline": "Trump delivers final speech ahead of midterms.",
+  "summary": "",
+  "summary_by": "",
+  "topic": "politics",
+  "outlets": 4,
+  "sides": {
+   "left": 1,
+   "center": 2,
+   "right": 1,
+   "unrated": 0
+  },
+  "score": 13.8872,
+  "clips": [
+   "JZKgP0N6aqE",
+   "QrlHQXEllww",
+   "XrwmptEPuj8",
+   "b-bSmfwfG-U",
+   "g0uZBGAcPFA",
+   "ngrHY0pJr1U"
+  ]
+ },
+ {
+  "day": "2026-11-01",
+  "headline": "French schools blockade resume on smaller scale as holidays end",
+  "summary": "High school students in France have resumed protests after a two-week break, but on a much smaller scale.",
+  "summary_by": "Al Jazeera English",
+  "topic": "politics",
+  "outlets": 3,
+  "sides": {
+   "left": 2,
+   "center": 1,
+   "right": 0,
+   "unrated": 0
+  },
+  "score": 13.8129,
+  "clips": [
+   "60G_2w7g9Qo",
+   "Cz31ojCC2p0",
+   "KLjtYr2b7UU",
+   "ZvLTg1BKTS4",
+   "c6cwWRO2Tss",
+   "mJz6Vm6Ozqg"
+  ]
+ },
+ {
+  "day": "2026-11-01",
+  "headline": "Bangladesh Wage Protest: 16 Arrested In Mirpur As Garment Workers Demand Higher Wages",
+  "summary": "Police fired teargas and stun grenades at protesters as garment factory workers across Bangladesh took to the streets to demonstrate for higher wages.",
+  "summary_by": "Guardian News",
+  "topic": "politics",
+  "outlets": 3,
+  "sides": {
+   "left": 2,
+   "center": 1,
+   "right": 0,
+   "unrated": 0
+  },
+  "score": 10.9297,
+  "clips": [
+   "3bwvGd3aaG0",
+   "9a2xfoZxduw",
+   "CpkwETjDefU",
+   "Cx42_4ibo-8",
+   "L3F1IfNwS2k",
+   "MseNInEUb6A",
+   "NnULwEQPyXQ",
+   "WLE0hvKsGAo",
+   "Xx54kVYSbAo",
+   "ZW3wafIuYno",
+   "a6hLT6ZClJI",
+   "adrJ4_w8cW0",
+   "eeWmPNfrsOQ",
+   "hWQZNRHaGp0",
+   "lz7UzOyKLug",
+   "ttZXlolUdGo"
+  ]
+ }
+]
